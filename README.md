@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Sameer Sukhadeve, a Full-Stack Developer & AI/ML Engineer pursuing B.Tech in Computer Science (Minor: Data Science) at SGGSIE&T, Nanded with a CGPA of 7.79. I build AI-powered real-world applications using Java, Python, TypeScript, React.js, Next.js, and PostgreSQL — with projects like an AI Medical Voice Agent and AI Tumor Detection System. A passionate builder with hands-on LLM, Computer Vision, and REST API experience, ready to create impactful tech solutions.
+I'm Sameer Sukhadeve, a Full-Stack Developer & AI/ML Engineer pursuing B.Tech in Computer Science (Minor: Data Science) at SGGSIE&T, Nanded with a CGPA of 7.79. I build AI-powered real-world applications using Java, Python, TypeScript, React.js, Next.js, and PostgreSQL — with projects like an AI Medical Voice Agent and AI Tumor Detection System. A passionate builder with hands-on LLM, Computer Vision, and REST API experience, ready to create impactful tech solutions .
 
 
 ## 🌐 Socials: PORTFOLIO : https://my-portfolio-nine-zeta-g53sa16r4i.vercel.app/
