@@ -4,7 +4,7 @@ I'm Sameer Sukhadeve, a Full-Stack Developer & AI/ML Engineer pursuing B.Tech in
 
 ## 🌐 Socials: PORTFOLIO : https://my-portfolio-nine-zeta-g53sa16r4i.vercel.app/
 LEETCODE : https://leetcode.com/u/sambril/
-LinkedIn : https://linkedin.com/in/) 
+LinkedIn : https://www.linkedin.com/in/sameer-sukhadeve-18b2b72a3/ 
 Email (mailto:sukhdevesameer65@gmail.com) 
 
 # 💻 Tech Stack:
